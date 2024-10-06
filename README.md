@@ -2,8 +2,9 @@
   <!--  介绍 -->    
   <h2> I'm Hsc <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt=""></h2>
   <!--  鬼灭之刃 -->   
-  <img width = "50%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" />
+  <img width = "40%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" />
 
+<div align="center">
   <!--  猫猫 -->  
   <p><em>biomedical stu at home(interim)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 
   </em></p>
@@ -20,7 +21,7 @@
   。。。。。。
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center">
+
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HSsnano/HSsnano/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HSsnano/HSsnano/output/github-contribution-grid-snake.svg">
