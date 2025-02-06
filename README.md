@@ -6,7 +6,7 @@
 
 <div align="center">
   <!--  猫猫 -->  
-  <p><em>biomedical stu at home(interim)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 
+  <p><em> 	applying for Fall 2026 PhD  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 
   </em></p>
   
   <!--  语言工具 -->    
